@@ -18,12 +18,17 @@ df_graduationrate stores data on Maryland graduation rates by county.
 df_unemployment contains data on unemployment rates by county in Maryland.
 <img width="1139" alt="Screenshot 2024-09-07 at 10 53 23 PM" src="https://github.com/user-attachments/assets/e16fbe75-619f-4691-9cf6-47c4fcbfbeb2">
 <img width="1179" alt="Screenshot 2024-09-07 at 11 01 16 PM" src="https://github.com/user-attachments/assets/f24978ad-411b-4209-81cf-b8afa5e31b74">
+
 This image displays the first five rows of a DataFrame (df_county), showing crime data for Allegany County from 1975 to 1979, including various columns like population, murder, rape, robbery, assault, theft, and the respective rates per 100,000 people. This is just to give a breif showing of what the dataset has. 
 
 <img width="356" alt="Screenshot 2024-09-08 at 1 07 04 PM" src="https://github.com/user-attachments/assets/8a34794e-f7f0-4481-9965-e0ba56ccb761">
+
 This image shows the first five rows of the df_graduationrate DataFrame, which contains the graduation rates for different counties in Maryland. The columns include County and Graduation Rate (%). This is just to give a breif showing of what the dataset has. 
 
 
+<img width="392" alt="Screenshot 2024-09-08 at 1 09 37 PM" src="https://github.com/user-attachments/assets/334a7f32-bc83-4cda-88bd-56f9269b99ce">
+
+This image shows the first five rows of the df_unemployment DataFrame, which contains unemployment rates from 2020 to 2023 for different counties in Maryland. The data includes statewide unemployment rates as well as rates for specific counties like Allegany County, Anne Arundel County, Baltimore City, and Baltimore County. The unemployment rate has been decreasing over the years across all listed regions.
 
 <img width="1133" alt="Screenshot 2024-09-07 at 11 14 17 PM" src="https://github.com/user-attachments/assets/9a98bfc7-10d7-4927-acd3-d405c9bc842e">
 
