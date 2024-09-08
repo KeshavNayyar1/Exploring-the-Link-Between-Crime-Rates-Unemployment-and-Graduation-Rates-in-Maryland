@@ -104,4 +104,105 @@ The results strongly suggest that higher murder rates are associated with lower 
 <img width="430" alt="Screenshot 2024-09-08 at 12 19 17 PM" src="https://github.com/user-attachments/assets/ed52d2fb-a5aa-4147-9702-8aac84074f70">
 <img width="441" alt="Screenshot 2024-09-08 at 12 20 09 PM" src="https://github.com/user-attachments/assets/6d948f6c-7180-4dd8-b297-882690c1a106">
 
+<img width="1132" alt="Screenshot 2024-09-08 at 12 21 07 PM" src="https://github.com/user-attachments/assets/86b2124c-d388-4a9a-aa8f-2b05ac4687a2">
 
+<img width="523" alt="Screenshot 2024-09-08 at 12 21 25 PM" src="https://github.com/user-attachments/assets/687dffb5-f604-49b9-9c1f-c1bf6a9daab6">
+
+<img width="891" alt="Screenshot 2024-09-08 at 12 22 10 PM" src="https://github.com/user-attachments/assets/1df9d447-1c2a-4504-ab3a-7bf4a48f56ff">
+
+<img width="1073" alt="Screenshot 2024-09-08 at 12 22 30 PM" src="https://github.com/user-attachments/assets/f000dcac-6823-4841-aefb-62c007972621">
+
+<img width="1133" alt="Screenshot 2024-09-08 at 12 22 54 PM" src="https://github.com/user-attachments/assets/34c2c3b2-437e-46c4-922f-7e66a1d6543a">
+
+<img width="341" alt="Screenshot 2024-09-08 at 12 23 40 PM" src="https://github.com/user-attachments/assets/cf2a6288-5756-4c0f-a309-b3f871d75c96">
+
+1. Chi-squared Statistic: 7.624
+The Chi-squared statistic is a measure of how much the observed values deviate from the expected values under the null hypothesis. A higher Chi-squared value indicates that the observed data differ significantly from the expected data if the variables were independent. In this case, a value of 7.624 suggests that there is some deviation from what is expected under independence between graduation and unemployment rates.
+2. P-value: 0.022
+The p-value indicates the probability of observing the data if the null hypothesis (that graduation rates and unemployment rates are independent) were true.
+A p-value of 0.022 means that there is a 2.2% chance that the observed association between the graduation rate and unemployment rate happened by random chance.
+Since this p-value is less than the commonly used threshold of 0.05, we reject the null hypothesis. This means there is a statistically significant relationship between graduation rates and unemployment rates.
+3. Expected Frequencies
+Expected frequencies tell us what the values in the contingency table would be if graduation rates and unemployment rates were independent.
+The table provides expected values for each category (e.g., low graduation rate, medium unemployment rate), and these values are compared with the observed values to compute the Chi-squared statistic.
+For example:
+For low graduation rate and low unemployment rate, the expected frequency is around 0.739.
+For low graduation rate and medium unemployment rate, the expected frequency is 0.261.
+These are compared to the actual observed frequencies to determine the level of deviation, which contributes to the Chi-squared value.
+Summary and Conclusion
+The Chi-squared test shows a significant relationship between graduation rates and unemployment rates because the p-value (0.022) is less than 0.05.
+The expected frequencies give us a picture of what the data would look like if there were no relationship, and the significant Chi-squared statistic suggests that the actual data deviate from this.
+Conclusion: There is a meaningful relationship between graduation rates and unemployment rates across Maryland counties for the given data.
+
+<img width="1124" alt="Screenshot 2024-09-08 at 12 24 16 PM" src="https://github.com/user-attachments/assets/2b154a51-b36c-4749-92cf-96bd3d6348a4">
+
+<img width="905" alt="Screenshot 2024-09-08 at 12 25 12 PM" src="https://github.com/user-attachments/assets/377eae14-c576-4c02-adaf-718dea5ad143">
+<img width="1096" alt="Screenshot 2024-09-08 at 12 25 44 PM" src="https://github.com/user-attachments/assets/fb293202-e87a-4b11-aeb4-9495a700724f">
+
+The T-test results show that there is a statistically significant difference in graduation rates between counties with high and low unemployment rates.
+
+The T-Statistic of 2.17 indicates that the means of the two groups (counties with high vs. low unemployment) differ in a meaningful way.
+The P-value of 0.042 is less than 0.05, which means the difference is statistically significant.
+As a result, we can reject the null hypothesis and conclude that counties with high and low unemployment rates have significantly different graduation rates.
+
+<img width="1028" alt="Screenshot 2024-09-08 at 12 26 25 PM" src="https://github.com/user-attachments/assets/1201fc9d-381b-4190-876f-2992d92eebac">
+<img width="969" alt="Screenshot 2024-09-08 at 12 34 03 PM" src="https://github.com/user-attachments/assets/4c815d76-80ce-4d4b-a556-cb1b8b6324fd">
+
+F-Statistic: 4.076
+The F-statistic measures the ratio of variance between the groups (i.e., the variation in graduation rates between the low, medium, and high unemployment categories) compared to the variance within the groups. A higher F-statistic indicates that there is a larger difference between the groups compared to within the groups. In this case, the F-statistic of 4.076 suggests that the differences between the graduation rates of counties in different unemployment categories are noticeable.
+
+P-value: 0.0327
+The p-value tells us whether the observed differences in graduation rates across the unemployment categories are statistically significant. In this case, the p-value is 0.0327, which is less than the common threshold of 0.05. This means that there is only a 3.27% chance that the observed differences happened by random chance, indicating that the differences are statistically significant.
+
+Conclusion
+Since the p-value is less than 0.05, we reject the null hypothesis. The null hypothesis assumes that there is no difference in graduation rates between counties with low, medium, and high unemployment rates. Rejecting it means that there is a significant difference in graduation rates between counties with different unemployment rates.
+
+Summary:
+The ANOVA test results indicate that counties with different unemployment rates have significantly different graduation rates. There is a meaningful relationship between unemployment rates and graduation rates across the counties.
+
+<img width="1121" alt="Screenshot 2024-09-08 at 12 34 43 PM" src="https://github.com/user-attachments/assets/ede46513-9cb5-4627-b029-c784aa5b2ef8">
+
+
+<img width="1020" alt="Screenshot 2024-09-08 at 12 35 05 PM" src="https://github.com/user-attachments/assets/875b4070-ab07-4894-b09b-372fa1837998">
+
+Summary of Tests, Graphs, and Findings
+Chi-Squared Test (Graduation Rate vs. Unemployment Rate)
+
+Chi-squared Statistic: 7.624
+P-value: 0.022
+Conclusion: There is a significant relationship between graduation rates and unemployment rates across Maryland counties. Since the p-value is less than 0.05, we reject the null hypothesis, indicating a statistical association between these variables. Counties with different unemployment rates show differences in graduation rates.
+Z-Test (Graduation Rate vs. Murder Rate)
+
+Z-Statistic: 4.192
+P-value: 2.76e-05
+Conclusion: There is a significant difference between graduation rates and murder rates. The test shows a strong relationship between these variables, and we reject the null hypothesis, indicating that murder rates could potentially influence graduation rates.
+T-Test (Graduation Rate in High vs. Low Unemployment Counties)
+
+T-Statistic: 2.166
+P-value: 0.0419
+Conclusion: There is a significant difference in graduation rates between counties with high and low unemployment rates. The test suggests that unemployment plays a role in determining graduation rates, as counties with lower unemployment have higher graduation rates.
+ANOVA (Graduation Rates Across Different Unemployment Categories)
+
+F-Statistic: 4.076
+P-value: 0.0327
+Conclusion: There is a significant difference in graduation rates between counties in different unemployment categories. This reinforces the findings from the T-Test, further confirming that unemployment rates impact graduation rates across multiple groups.
+OLS Regression (Murder Rate vs. Graduation Rate)
+
+R-squared: 0.569
+P-value (Murder rate): 5.04e-05
+Conclusion: The regression analysis shows that for every 1-unit increase in the murder rate, the graduation rate decreases by approximately 0.071%. This is a statistically significant result, suggesting that higher murder rates are strongly associated with lower graduation rates across counties.
+Correlation Matrix (Graduation Rate vs. Crime Categories)
+
+Correlation coefficients show negative relationships between graduation rates and multiple crime categories (e.g., murder, robbery, assault). This indicates that higher crime rates in a county tend to coincide with lower graduation rates.
+Contingency Table and Chi-Squared Test (Graduation Rate Categories vs. Unemployment Rate Categories)
+
+The contingency table showed expected values for counties distributed across graduation and unemployment rate categories.
+Chi-squared Statistic: 5.515
+P-value: 0.063
+Conclusion: This analysis suggests a weak association between graduation rate categories (low, medium, high) and unemployment rate categories (low, medium, high). While the p-value is slightly above 0.05, it indicates some connection but may not be conclusive enough to reject the null hypothesis.
+Key Learnings:
+Murder rates and crime rates negatively impact graduation rates, suggesting that counties with higher violent crime levels tend to have lower graduation rates.
+Unemployment rates are also strongly associated with graduation rates, and counties with lower unemployment tend to have higher graduation rates.
+Regression and correlation analyses further support these relationships, indicating statistically significant findings across the board.
+Chi-squared tests demonstrated that there are connections between graduation rates and unemployment, though the strength of these associations varies depending on how the data is categorized.
+These analyses highlight the multifaceted relationships between crime, unemployment, and education, emphasizing how social factors influence graduation outcomes in Maryland counties.
