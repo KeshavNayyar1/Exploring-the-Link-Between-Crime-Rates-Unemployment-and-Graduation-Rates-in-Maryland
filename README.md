@@ -47,3 +47,4 @@ OLS Regression: We performed OLS (Ordinary Least Squares) regression to assess t
 These tests help us quantify the relationships between the variables and determine whether crime rates, unemployment, and graduation rates are linked in Maryland counties.
 
 In the next section, we’ll summarize the findings from these statistical analyses and interpret their implications.
+<img width="1134" alt="Screenshot 2024-09-07 at 10 50 59 PM" src="https://github.com/user-attachments/assets/32271070-8345-4a97-8cdc-4a432d416ada">
