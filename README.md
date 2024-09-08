@@ -32,6 +32,8 @@ This image shows the first five rows of the df_unemployment DataFrame, which con
 
 # Exploratory Data Analysis
 
+This code is all about combining data on crime rates and graduation rates for Maryland counties to see if there's any connection between the two. First, it cleans up the data (like fixing county names and turning percentages into numbers). Then it grabs the most recent crime data and picks out important columns (like murder and robbery). After merging the crime data with the graduation rates, it calculates correlations to see how these factors relate. Finally, it saves the results to a CSV file so you can easily check out the findings later.
+
 <img width="1133" alt="Screenshot 2024-09-07 at 11 14 17 PM" src="https://github.com/user-attachments/assets/9a98bfc7-10d7-4927-acd3-d405c9bc842e">
 
 
