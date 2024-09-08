@@ -30,9 +30,10 @@ This image shows the first five rows of the df_graduationrate DataFrame, which c
 
 This image shows the first five rows of the df_unemployment DataFrame, which contains unemployment rates from 2020 to 2023 for different counties in Maryland. The data includes statewide unemployment rates as well as rates for specific counties like Allegany County, Anne Arundel County, Baltimore City, and Baltimore County. The unemployment rate has been decreasing over the years across all listed regions.
 
+# Exploratory Data Analysis
+
 <img width="1133" alt="Screenshot 2024-09-07 at 11 14 17 PM" src="https://github.com/user-attachments/assets/9a98bfc7-10d7-4927-acd3-d405c9bc842e">
 
-# Exploratory Data Analysis
 
 <img width="829" alt="Screenshot 2024-09-07 at 11 06 09 PM" src="https://github.com/user-attachments/assets/383a8191-8bb0-49fa-973a-ea1a5bfc443c">
 
