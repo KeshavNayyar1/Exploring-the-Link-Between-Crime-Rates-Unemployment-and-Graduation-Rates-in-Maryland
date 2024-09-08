@@ -191,7 +191,7 @@ The ANOVA test results indicate that counties with different unemployment rates 
 
 <img width="1020" alt="Screenshot 2024-09-08 at 12 35 05 PM" src="https://github.com/user-attachments/assets/875b4070-ab07-4894-b09b-372fa1837998">
 
-Summary of Tests, Graphs, and Findings
+# Summary of Tests, Graphs, and Findings
 Chi-Squared Test (Graduation Rate vs. Unemployment Rate)
 
 Chi-squared Statistic: 7.624
