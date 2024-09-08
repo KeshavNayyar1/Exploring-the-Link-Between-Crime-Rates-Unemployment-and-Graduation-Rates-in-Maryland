@@ -48,6 +48,9 @@ Correlation Matrix: The second image displays a correlation matrix between gradu
 
 This analysis helps understand the potential relationship between crime rates and educational outcomes in Maryland counties.
 
+
+This code runs a linear regression to analyze the relationship between the murder rate and graduation rate. The murder rate is set as the independent variable, while the graduation rate is the dependent variable. A constant is added to the model, and an ordinary least squares (OLS) regression is fitted to predict how changes in the murder rate affect graduation rates. The regression summary is printed to show the model's details, including the coefficient for the murder rate. Depending on whether the coefficient is negative or positive, the code outputs whether an increase in the murder rate is associated with a decrease or increase in graduation rates. If there's no significant relationship, the code will also mention that. This helps assess how closely these two factors are connected.
+
 <img width="757" alt="Screenshot 2024-09-07 at 11 16 26 PM" src="https://github.com/user-attachments/assets/9d617941-4d79-4d22-ad90-f38e90641aae">
 
 <img width="740" alt="Screenshot 2024-09-07 at 11 16 59 PM" src="https://github.com/user-attachments/assets/0380e579-d47c-49be-9196-ac8ff0d51b55">
