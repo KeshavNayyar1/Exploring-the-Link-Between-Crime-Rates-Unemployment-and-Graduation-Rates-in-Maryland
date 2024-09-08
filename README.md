@@ -58,42 +58,9 @@ In the next section, we’ll summarize the findings from these statistical analy
 
 <img width="317" alt="Screenshot 2024-09-07 at 11 05 24 PM" src="https://github.com/user-attachments/assets/d56cc515-a289-4681-9f83-6407b0efa61c">
 
-df_graduationrate['County'] = df_graduationrate['County'].str.strip()
-df_graduationrate['Graduation Rate (%)'] = df_graduationrate['Graduation Rate (%)'].str.rstrip('%').replace('>= 95', '95').astype(float)
 
-# Find the most recent year in the county data
-most_recent_year = df_county['YEAR'].max()
-df_county_recent = df_county[df_county['YEAR'] == most_recent_year]
+<img width="1133" alt="Screenshot 2024-09-07 at 11 14 17 PM" src="https://github.com/user-attachments/assets/9a98bfc7-10d7-4927-acd3-d405c9bc842e">
 
-# Print the column names of df_county_recent to verify 'JURISDICTION' exists
-print("Columns in df_county_recent:", df_county_recent.columns)
-
-# Adjust the crime_columns variable based on actual column names from df_county_recent
-crime_columns = ['JURISDICTION', 'MURDER', 'RAPE', 'ROBBERY', 'AGG. ASSAULT', 'B & E', 'LARCENY THEFT', 'M/V THEFT']
-
-# Select relevant columns for the crime dataset (jurisdiction level)
-df_county_recent = df_county_recent[crime_columns]
-
-# Clean up jurisdiction names in the Crime DataFrame to match the Graduation Rates DataFrame
-df_county_recent['JURISDICTION'] = df_county_recent['JURISDICTION'].str.replace(" County", "").str.strip()
-
-# Merge the datasets on 'JURISDICTION' and 'County'
-merged_data = pd.merge(df_graduationrate, df_county_recent, left_on='County', right_on='JURISDICTION')
-
-# Calculate correlations between graduation rate and crime stats
-relevant_columns = ['Graduation Rate (%)', 'MURDER', 'RAPE', 'ROBBERY', 'AGG. ASSAULT', 'B & E', 'LARCENY THEFT', 'M/V THEFT']
-
-# Drop rows with missing values
-merged_data = merged_data.dropna()
-
-# Calculate the correlation matrix
-correlation_matrix = merged_data[relevant_columns].corr()
-
-# Display the correlation matrix
-print(correlation_matrix)
-
-# Save the correlation matrix to a CSV
-correlation_matrix.to_csv('graduation_crime_correlation_matrix.csv', index=False)
 
 <img width="829" alt="Screenshot 2024-09-07 at 11 06 09 PM" src="https://github.com/user-attachments/assets/383a8191-8bb0-49fa-973a-ea1a5bfc443c">
 <img width="586" alt="Screenshot 2024-09-07 at 11 06 33 PM" src="https://github.com/user-attachments/assets/9a5c37e7-1f65-4ee9-8c38-fa66d5c3ab8f">
