@@ -87,6 +87,20 @@ This Python code uses matplotlib and seaborn to generate scatter plots showing t
 
 <img width="480" alt="Screenshot 2024-09-08 at 12 18 50 PM" src="https://github.com/user-attachments/assets/4311d943-34de-426f-ab96-15aa5fabea19">
 
+Graduation Rate vs. MURDER Rate: This graph shows that counties with lower graduation rates tend to have higher murder rates. As the graduation rate increases, the murder rate generally decreases, with most of the higher murder rates clustering around graduation rates below 85%.
+
+Graduation Rate vs. ROBBERY Rate: Similar to the murder rate graph, counties with lower graduation rates seem to experience higher robbery rates. Counties with higher graduation rates (above 85%) tend to have much lower robbery rates.
+
+Graduation Rate vs. RAPE Rate: This plot indicates a similar pattern, where lower graduation rates correspond with higher rape rates. Counties with higher graduation rates tend to see fewer instances of rape, though there are some outliers in the middle range.
+
+Graduation Rate vs. AGG. ASSAULT Rate: The graph suggests that counties with lower graduation rates experience significantly higher aggravated assault rates. Higher graduation rates correspond with a dramatic drop in aggravated assault rates.
+
+Graduation Rate vs. B & E Rate: The plot shows how graduation rates (x-axis) compare to the rates of breaking and entering crimes (y-axis). It appears that counties with lower graduation rates tend to have higher B & E rates, with the majority of lower crime rates observed in counties with graduation rates above 85%.
+
+Graduation Rate vs. Larceny Theft Rate: This scatter plot depicts the relationship between graduation rates and larceny theft rates. There is a similar pattern here where counties with lower graduation rates seem to have higher theft rates, while higher graduation rate counties experience fewer larceny incidents.
+
+Graduation Rate vs. Motor Vehicle Theft Rate: This graph shows how motor vehicle theft rates relate to graduation rates. Again, counties with lower graduation rates appear to have higher M/V theft rates, while counties with higher graduation rates tend to have lower incidents of vehicle theft.
+
 <img width="430" alt="Screenshot 2024-09-08 at 12 19 17 PM" src="https://github.com/user-attachments/assets/ed52d2fb-a5aa-4147-9702-8aac84074f70">
 <img width="441" alt="Screenshot 2024-09-08 at 12 20 09 PM" src="https://github.com/user-attachments/assets/6d948f6c-7180-4dd8-b297-882690c1a106">
 
