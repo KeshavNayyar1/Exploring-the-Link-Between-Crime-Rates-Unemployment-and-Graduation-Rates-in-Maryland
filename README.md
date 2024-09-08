@@ -4,7 +4,7 @@ The relationship between socioeconomic factors and educational outcomes has long
 
 
 
-
+# Data Curation
 <img width="1134" alt="Screenshot 2024-09-07 at 10 50 59 PM" src="https://github.com/user-attachments/assets/32271070-8345-4a97-8cdc-4a432d416ada">
 
 The code imports various libraries for data analysis, statistical testing, and machine learning. It enables the user to handle data efficiently, visualize it using plots, and perform tests like T-tests and Chi-squared tests, with additional support for building neural networks if needed.
