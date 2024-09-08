@@ -123,6 +123,7 @@ This process helps in aligning the two datasets for further analysis.
 
 <img width="523" alt="Screenshot 2024-09-08 at 12 21 25 PM" src="https://github.com/user-attachments/assets/687dffb5-f604-49b9-9c1f-c1bf6a9daab6">
 
+This table displays a combination of graduation rates and unemployment rates for various counties in Maryland. The first column lists the counties, while the second column shows the graduation rate (as a percentage) for each county. The subsequent columns display the unemployment rates from 2020 to 2023. By combining these two datasets, you can analyze the potential relationships between the graduation rates and unemployment trends over the years for each county. For example, Baltimore City has a lower graduation rate (68.7%) and higher unemployment rates compared to counties like Montgomery, which has a higher graduation rate (90.3%) and lower unemployment rates. This combined data is useful for exploring the correlation between economic factors and educational outcomes across the region.
 
 <img width="891" alt="Screenshot 2024-09-08 at 12 22 10 PM" src="https://github.com/user-attachments/assets/1df9d447-1c2a-4504-ab3a-7bf4a48f56ff">
 
