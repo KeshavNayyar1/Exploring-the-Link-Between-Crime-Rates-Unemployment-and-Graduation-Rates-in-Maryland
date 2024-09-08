@@ -1,4 +1,4 @@
-# Exploring-the-Link-Between-Crime-Rates-Unemployment-and-Graduation-Rates-in-Maryland2
+`# Exploring-the-Link-Between-Crime-Rates-Unemployment-and-Graduation-Rates-in-Maryland2
 Introduction: Exploring the Relationship Between Crime, Unemployment, and Education
 The relationship between socioeconomic factors and educational outcomes has long been a subject of interest in social science research. Specifically, crime rates, unemployment levels, and education (graduation rates) are often interrelated, with each factor influencing the other in complex ways. For example, counties with higher crime rates may experience disruptions in education, while areas with higher unemployment rates may see lower graduation rates as economic hardship affects student performance and school attendance. Conversely, higher education levels can contribute to lower unemployment and crime rates by providing individuals with more opportunities.
 
@@ -78,6 +78,7 @@ For every additional murder, the graduation rate is expected to drop slightly by
 The results strongly suggest that higher murder rates are associated with lower graduation rates in the counties analyzed. Given the significance of the results, policymakers could consider the potential impacts of violent crime on educational outcomes in their decision-making.
 
 
+This Python code uses matplotlib and seaborn to generate scatter plots showing the relationship between graduation rates and different crime categories. It first merges two DataFrames (df_graduationrate and df_county_recent) on a common column (County and JURISDICTION). The code then iterates over a list of crime categories like murder, robbery, and assault, and for each category, it creates a scatter plot with the graduation rate on the x-axis and the specific crime rate on the y-axis. The graph size is kept small for better display in-line, with transparency and smaller point sizes to improve clarity. The plot grid and layout are automatically adjusted to improve readability.
 
 <img width="1139" alt="Screenshot 2024-09-08 at 12 17 45 PM" src="https://github.com/user-attachments/assets/722c467e-4606-4ede-943c-077d825d4799">
 
