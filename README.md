@@ -67,3 +67,23 @@ In the next section, we’ll summarize the findings from these statistical analy
 <img width="658" alt="Screenshot 2024-09-07 at 11 15 51 PM" src="https://github.com/user-attachments/assets/b6f187a7-cea1-4cc7-9946-1becee54b550">
 <img width="757" alt="Screenshot 2024-09-07 at 11 16 26 PM" src="https://github.com/user-attachments/assets/9d617941-4d79-4d22-ad90-f38e90641aae">
 <img width="740" alt="Screenshot 2024-09-07 at 11 16 59 PM" src="https://github.com/user-attachments/assets/0380e579-d47c-49be-9196-ac8ff0d51b55">
+The OLS Regression Results provide insights into how the murder rate affects the graduation rate. Here's a breakdown of the key information:
+
+1. R-squared: 0.569
+R-squared is a measure of how well the independent variable (murder rate) explains the variation in the dependent variable (graduation rate).
+An R-squared of 0.569 means that 56.9% of the variation in graduation rates can be explained by changes in the murder rate. This is a moderate level of explanatory power, suggesting that the murder rate has a meaningful influence on the graduation rate, but other factors also contribute to the variation.
+2. Coefficient for MURDER: -0.0706
+This coefficient tells you how much the graduation rate changes for each unit increase in the murder rate.
+The coefficient is -0.0706, meaning that for every 1-unit increase in the murder rate, the graduation rate is expected to decrease by 0.0706%. This suggests a negative relationship between the murder rate and the graduation rate—when the murder rate goes up, the graduation rate tends to go down.
+3. P-value for MURDER: 0.000
+The p-value for the murder rate coefficient is 0.000, which is far below the common significance level of 0.05.
+This means the negative relationship between the murder rate and graduation rate is statistically significant. You can confidently say that the murder rate has a real effect on the graduation rate.
+4. F-statistic: 26.37, Prob (F-statistic): 5.04e-05
+The F-statistic evaluates the overall significance of the regression model. A value of 26.37 and a very small p-value (5.04e-05) indicate that the model as a whole is statistically significant, meaning the murder rate significantly affects graduation rates.
+5. Intercept (const): 90.5611
+The intercept represents the expected graduation rate when the murder rate is zero. In this case, the graduation rate would be about 90.56% if there were no murders.
+6. Interpretation of Results
+The regression results show that as the murder rate increases, the graduation rate tends to decrease. The relationship is both negative and statistically significant.
+For every additional murder, the graduation rate is expected to drop slightly by 0.0706%, and the model explains a moderate amount of the variation in graduation rates across the counties.
+7. Conclusion
+The results strongly suggest that higher murder rates are associated with lower graduation rates in the counties analyzed. Given the significance of the results, policymakers could consider the potential impacts of violent crime on educational outcomes in their decision-making.
