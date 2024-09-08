@@ -18,9 +18,9 @@ df_graduationrate stores data on Maryland graduation rates by county.
 df_unemployment contains data on unemployment rates by county in Maryland.
 <img width="1139" alt="Screenshot 2024-09-07 at 10 53 23 PM" src="https://github.com/user-attachments/assets/e16fbe75-619f-4691-9cf6-47c4fcbfbeb2">
 <img width="1179" alt="Screenshot 2024-09-07 at 11 01 16 PM" src="https://github.com/user-attachments/assets/f24978ad-411b-4209-81cf-b8afa5e31b74">
-
-<img width="1214" alt="Screenshot 2024-09-07 at 11 04 43 PM" src="https://github.com/user-attachments/assets/3e2af290-9b3e-4123-a01f-6a4169c30365">
 This image displays the first five rows of a DataFrame (df_county), showing crime data for Allegany County from 1975 to 1979, including various columns like population, murder, rape, robbery, assault, theft, and the respective rates per 100,000 people. This is just to give a breif showing of what the dataset has. 
+<img width="1214" alt="Screenshot 2024-09-07 at 11 04 43 PM" src="https://github.com/user-attachments/assets/3e2af290-9b3e-4123-a01f-6a4169c30365">
+
 
 
 <img width="1138" alt="Screenshot<img width="1143" alt="Screenshot 2024-09-07 at 11 02 17 PM" src="https://github.com/user-attachments/assets/ec342021-77a4-454c-9fb5-8f92c0cfd362">
