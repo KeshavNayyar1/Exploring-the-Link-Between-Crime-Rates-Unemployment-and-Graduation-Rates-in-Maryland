@@ -40,13 +40,16 @@ This code is all about combining data on crime rates and graduation rates for Ma
 <img width="829" alt="Screenshot 2024-09-07 at 11 06 09 PM" src="https://github.com/user-attachments/assets/383a8191-8bb0-49fa-973a-ea1a5bfc443c">
 
 <img width="658" alt="Screenshot 2024-09-07 at 11 15 51 PM" src="https://github.com/user-attachments/assets/b6f187a7-cea1-4cc7-9946-1becee54b550">
-<img width="757" alt="Screenshot 2024-09-07 at 11 16 26 PM" src="https://github.com/user-attachments/assets/9d617941-4d79-4d22-ad90-f38e90641aae">
+
 
 Columns in df_county_recent: This lists all the available columns in the df_county_recent DataFrame, which includes crime-related data like MURDER, RAPE, ROBBERY, LARCENY THEFT, and their corresponding rates per 100,000 people. This data provides insights into the crime statistics for different counties.
 
 Correlation Matrix: The second image displays a correlation matrix between graduation rates and various crime statistics. The matrix reveals how each crime category (such as murder, rape, and robbery) correlates with the graduation rate. A negative correlation (e.g., -0.754 for murder and graduation rate) suggests that as the murder rate increases, the graduation rate tends to decrease. Similarly, other crime categories also show varying degrees of correlation with graduation rates.
 
 This analysis helps understand the potential relationship between crime rates and educational outcomes in Maryland counties.
+
+<img width="757" alt="Screenshot 2024-09-07 at 11 16 26 PM" src="https://github.com/user-attachments/assets/9d617941-4d79-4d22-ad90-f38e90641aae">
+
 <img width="740" alt="Screenshot 2024-09-07 at 11 16 59 PM" src="https://github.com/user-attachments/assets/0380e579-d47c-49be-9196-ac8ff0d51b55">
 
 
