@@ -6,6 +6,9 @@ The relationship between socioeconomic factors and educational outcomes has long
 
 
 <img width="1134" alt="Screenshot 2024-09-07 at 10 50 59 PM" src="https://github.com/user-attachments/assets/32271070-8345-4a97-8cdc-4a432d416ada">
+
+The code imports various libraries for data analysis, statistical testing, and machine learning. It enables the user to handle data efficiently, visualize it using plots, and perform tests like T-tests and Chi-squared tests, with additional support for building neural networks if needed.
+
 <img width="1141" alt="Screenshot 2024-09-07 at 10 53 16 PM" src="https://github.com/user-attachments/assets/86e148af-3cad-4a12-9515-0a510fd0dec8">
 <img width="1139" alt="Screenshot 2024-09-07 at 10 53 23 PM" src="https://github.com/user-attachments/assets/e16fbe75-619f-4691-9cf6-47c4fcbfbeb2">
 <img width="1179" alt="Screenshot 2024-09-07 at 11 01 16 PM" src="https://github.com/user-attachments/assets/f24978ad-411b-4209-81cf-b8afa5e31b74">
