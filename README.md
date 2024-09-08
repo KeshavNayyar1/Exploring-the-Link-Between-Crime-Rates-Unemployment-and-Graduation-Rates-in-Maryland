@@ -89,3 +89,8 @@ The regression results show that as the murder rate increases, the graduation ra
 For every additional murder, the graduation rate is expected to drop slightly by 0.0706%, and the model explains a moderate amount of the variation in graduation rates across the counties.
 7. Conclusion
 The results strongly suggest that higher murder rates are associated with lower graduation rates in the counties analyzed. Given the significance of the results, policymakers could consider the potential impacts of violent crime on educational outcomes in their decision-making.
+
+
+<img width="555" alt="Screenshot 2024-09-07 at 11 18 57 PM" src="https://github.com/user-attachments/assets/f8268e5d-ebef-4b89-b730-03f2bc8fe5ca">
+
+<img width="874" alt="Screenshot 2024-09-07 at 11 19 24 PM" src="https://github.com/user-attachments/assets/fc4d0387-94b5-44e9-96fd-bbc2bc6cb245">
