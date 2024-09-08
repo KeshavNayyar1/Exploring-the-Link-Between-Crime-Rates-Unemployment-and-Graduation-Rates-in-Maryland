@@ -98,3 +98,8 @@ The results strongly suggest that higher murder rates are associated with lower 
 
 
 <img width="476" alt="Screenshot 2024-09-08 at 12 17 18 PM" src="https://github.com/user-attachments/assets/3537ba6e-8b65-4bc7-9d21-2ebf4d881a70">
+
+<img width="480" alt="Screenshot 2024-09-08 at 12 18 50 PM" src="https://github.com/user-attachments/assets/4311d943-34de-426f-ab96-15aa5fabea19">
+
+<img width="430" alt="Screenshot 2024-09-08 at 12 19 17 PM" src="https://github.com/user-attachments/assets/ed52d2fb-a5aa-4147-9702-8aac84074f70">
+
