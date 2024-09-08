@@ -157,6 +157,10 @@ Conclusion: There is a meaningful relationship between graduation rates and unem
 
 <img width="1124" alt="Screenshot 2024-09-08 at 12 24 16 PM" src="https://github.com/user-attachments/assets/2b154a51-b36c-4749-92cf-96bd3d6348a4">
 
+<img width="931" alt="Screenshot 2024-09-08 at 1 56 52 PM" src="https://github.com/user-attachments/assets/04ba171d-2fb4-40e7-967a-123e24ce7270">
+
+The chart shows a relationship between graduation rates and unemployment categories across different counties in Maryland. Most counties with high graduation rates tend to have medium unemployment rates, while counties with medium graduation rates are more spread across high and medium unemployment categories. It suggests that areas with higher unemployment rates might have lower graduation rates, while counties with medium unemployment rates are more likely to have higher graduation outcomes. This visualization highlights how economic factors like unemployment may be related to educational success across the region.
+
 <img width="905" alt="Screenshot 2024-09-08 at 12 25 12 PM" src="https://github.com/user-attachments/assets/377eae14-c576-4c02-adaf-718dea5ad143">
 <img width="1096" alt="Screenshot 2024-09-08 at 12 25 44 PM" src="https://github.com/user-attachments/assets/fb293202-e87a-4b11-aeb4-9495a700724f">
 
