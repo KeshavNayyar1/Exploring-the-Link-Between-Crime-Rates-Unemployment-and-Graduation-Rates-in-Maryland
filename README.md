@@ -31,4 +31,19 @@ Copy code
 County          | MURDER | RAPE | ROBBERY | AGG. ASSAULT
 Baltimore City  |   10   |  20  |   50    |    100
 Baltimore       |   5    |  10  |   25    |     80
-Data Combination
+Data Combination To explore how these factors interact, the datasets are merged based on the county names. For example, we combine graduation rates with unemployment and crime data, aligning the information by jurisdiction for each county. This combined dataset allows us to perform various statistical tests to assess the relationships between the variables.
+
+Explanation of the Statistical Tests
+Chi-Squared Test: The Chi-squared test was used to determine if there is a relationship between graduation rate categories (low, medium, high) and unemployment rate categories (low, medium, high). The test helps us understand whether the distribution of counties across these categories occurs by chance or if there is a significant association.
+
+Z-Test: A Z-test was performed to compare the mean graduation rates and murder rates. This test determines if there is a statistically significant difference between the two means and assesses whether counties with higher murder rates tend to have lower graduation rates.
+
+T-Test: The T-test compared the graduation rates between counties with low and high unemployment rates. By dividing the counties into two groups based on unemployment, we examined whether unemployment significantly impacts graduation rates.
+
+ANOVA: An ANOVA (Analysis of Variance) test was conducted to compare graduation rates across different unemployment rate categories. This test checks if the differences between the graduation rates in these groups are statistically significant.
+
+OLS Regression: We performed OLS (Ordinary Least Squares) regression to assess the relationship between murder rates and graduation rates. This test quantifies the extent to which an increase in the murder rate affects the graduation rate and provides insight into the strength of the relationship between crime and education.
+
+These tests help us quantify the relationships between the variables and determine whether crime rates, unemployment, and graduation rates are linked in Maryland counties.
+
+In the next section, we’ll summarize the findings from these statistical analyses and interpret their implications.
