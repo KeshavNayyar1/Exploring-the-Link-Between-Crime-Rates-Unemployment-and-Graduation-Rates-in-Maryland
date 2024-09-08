@@ -66,3 +66,4 @@ In the next section, we’ll summarize the findings from these statistical analy
 
 <img width="658" alt="Screenshot 2024-09-07 at 11 15 51 PM" src="https://github.com/user-attachments/assets/b6f187a7-cea1-4cc7-9946-1becee54b550">
 <img width="757" alt="Screenshot 2024-09-07 at 11 16 26 PM" src="https://github.com/user-attachments/assets/9d617941-4d79-4d22-ad90-f38e90641aae">
+<img width="740" alt="Screenshot 2024-09-07 at 11 16 59 PM" src="https://github.com/user-attachments/assets/0380e579-d47c-49be-9196-ac8ff0d51b55">
