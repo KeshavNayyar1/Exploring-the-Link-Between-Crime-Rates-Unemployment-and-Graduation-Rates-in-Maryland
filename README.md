@@ -106,9 +106,23 @@ Graduation Rate vs. Larceny Theft Rate: This scatter plot depicts the relationsh
 Graduation Rate vs. Motor Vehicle Theft Rate: This graph shows how motor vehicle theft rates relate to graduation rates. Again, counties with lower graduation rates appear to have higher M/V theft rates, while counties with higher graduation rates tend to have lower incidents of vehicle theft.
 
 
+This code is responsible for merging two datasets: one containing graduation rates and another containing unemployment rates for various counties. Here's what each part does:
+
+Cleaning County Names:
+
+Both df_graduationrate['County'] and df_unemployment['County'] have their "County" suffix removed and any extra spaces stripped, to ensure consistent naming conventions. This is important for the merge operation to work properly, as inconsistent names would cause mismatches.
+Merging the Datasets:
+
+The two datasets (df_graduationrate and df_unemployment) are merged on the common column 'County', using an inner join. This means only counties that are present in both datasets will be included in the final result. The merged DataFrame is stored in df_merged.
+Displaying the Result:
+
+Finally, print(df_merged) displays the resulting DataFrame after merging, allowing you to see the combined data of graduation and unemployment rates for each county.
+This process helps in aligning the two datasets for further analysis.
+
 <img width="1132" alt="Screenshot 2024-09-08 at 12 21 07 PM" src="https://github.com/user-attachments/assets/86b2124c-d388-4a9a-aa8f-2b05ac4687a2">
 
 <img width="523" alt="Screenshot 2024-09-08 at 12 21 25 PM" src="https://github.com/user-attachments/assets/687dffb5-f604-49b9-9c1f-c1bf6a9daab6">
+
 
 <img width="891" alt="Screenshot 2024-09-08 at 12 22 10 PM" src="https://github.com/user-attachments/assets/1df9d447-1c2a-4504-ab3a-7bf4a48f56ff">
 
