@@ -131,6 +131,8 @@ This code creates a scatter plot to visualize the relationship between graduatio
 
 <img width="1073" alt="Screenshot 2024-09-08 at 12 22 30 PM" src="https://github.com/user-attachments/assets/f000dcac-6823-4841-aefb-62c007972621">
 
+This scatter plot visualizes the relationship between graduation rates (x-axis) and unemployment rates for 2020 (y-axis) across different counties in Maryland. Each point represents a county, with its color corresponding to the county's name in the legend. The plot shows how counties with lower graduation rates (left side) generally tend to have higher unemployment rates, while those with higher graduation rates (right side) often have lower unemployment rates. The color legend allows easy identification of which county each point refers to.
+
 <img width="1133" alt="Screenshot 2024-09-08 at 12 22 54 PM" src="https://github.com/user-attachments/assets/34c2c3b2-437e-46c4-922f-7e66a1d6543a">
 
 <img width="341" alt="Screenshot 2024-09-08 at 12 23 40 PM" src="https://github.com/user-attachments/assets/cf2a6288-5756-4c0f-a309-b3f871d75c96">
