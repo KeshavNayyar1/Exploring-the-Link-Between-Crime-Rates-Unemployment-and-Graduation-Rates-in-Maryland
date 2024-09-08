@@ -2,7 +2,7 @@
 Introduction: Exploring the Relationship Between Crime, Unemployment, and Education
 The relationship between socioeconomic factors and educational outcomes has long been a subject of interest in social science research. Specifically, crime rates, unemployment levels, and education (graduation rates) are often interrelated, with each factor influencing the other in complex ways. For example, counties with higher crime rates may experience disruptions in education, while areas with higher unemployment rates may see lower graduation rates as economic hardship affects student performance and school attendance. Conversely, higher education levels can contribute to lower unemployment and crime rates by providing individuals with more opportunities.
 
-In this analysis, we investigate the linkages between graduation rates, unemployment rates, and crime rates across various counties in Maryland. By using statistical tests such as Z-tests, T-tests, Chi-squared tests, ANOVA, and OLS regression, we examine how these factors are related to each other.
+In this analysis, we investigate the linkages between graduation rates, unemployment rates, and crime rates across various counties in Maryland. By using statistical tests such as Z-tests, T-tests, Chi-squared tests, ANOVA, and OLS regression, we examine how these factors are related to each other.k
 
 Overview of the Datasets
 Graduation Rate Data: This dataset provides the graduation rates for Maryland counties. The graduation rate represents the percentage of students who complete high school in a given year. Counties are labeled, and the graduation rates span across several years (2020 to 2023). This dataset serves as the primary indicator of educational success in different counties.
